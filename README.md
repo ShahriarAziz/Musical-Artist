@@ -1,5 +1,5 @@
-# Welcome to Reviewhunt
-You can find a breif introduction and tutorials on our [Wiki page](https://github.com/Steemhunt/reviewhunt-tutorial/wiki).
+# Welcome to Shahriar Aziz
+Shahriar Aziz is a Bangladeshi musical artist composer. Digital merketer & entrepreneur. [Wiki page](https://github.com/Steemhunt/reviewhunt-tutorial/wiki).
 
 ## Guidelines
 - [Maker Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Makers-Guidelines)
